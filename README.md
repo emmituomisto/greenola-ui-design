@@ -1,1 +1,36 @@
-# greenola-ui-design
+## **Greenola App – UI/UX Design**
+🔗 **[View Figma Prototype](https://www.figma.com/proto/q48qWKROD761obQoEKBUDf/Greenola-App?node-id=81-829&p=f&t=VEVhj0hi7i8xO9i5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=61%3A182)**  
+
+### **Overview**  
+This UI/UX design was created as part of the **Designing Digital Service** course at **LAB University of Applied Sciences**. The course focused on designing digital solutions that enhance user experience and provide value.  
+
+The **Greenola App** was developed as a **conceptual project** aimed at **promoting sustainable living** by offering:  
+💜 **Recycling guides** to educate users on proper waste management  
+💜 **Local eco-friendly business listings** to support sustainability  
+💜 **Finding the closest recycling point using a map** for convenience  
+
+The project followed a structured **service design process**, where each team member contributed to different areas:
+
+1️⃣ **Research & Analysis** – Understanding user needs, sustainability goals, and existing digital solutions  
+2️⃣ **Service Design & Concept Development** – Defining the core functionalities and structuring the user journey  
+3️⃣ **UI/UX Design & Prototyping** – Designing and creating an interactive **Figma prototype**  
+4️⃣ **Presentation & Documentation** – Compiling findings and presenting the final concept  
+
+### **My Role – UI/UX Design Lead (Shared Responsibility)**  
+💜 **Led the UI/UX design phase**, collaborating with another team member on the visual design  
+💜 **Created an interactive Figma prototype**, ensuring structured layouts and accessibility  
+💜 **Designed user flows and navigation**, ensuring a smooth user experience  
+💜 **Developed the app’s visual identity**, selecting colors, typography, and UI elements  
+💜 **Implemented accessibility principles**, optimizing readability and usability  
+
+### **Key Design Features**  
+💜 **Eco-friendly branding** with a sustainability-focused visual style  
+💜 **User-friendly interface with clear navigation & structured layouts**  
+💜 **Clickable Figma prototype for usability testing & concept validation**  
+💜 **Consistency across screens, ensuring smooth interactions**  
+
+### **Tools Used**  
+💜 **Figma** – UI/UX Prototyping  
+💜 **Adobe Illustrator** – Graphic Design  
+
+💡 **Note:** This UI/UX design was just **one part of a larger project**, which also included **research, service design, and conceptual development**. The project was **not officially shared with Heinola city or any external organization**—it was purely an academic exercise.

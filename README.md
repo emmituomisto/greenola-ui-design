@@ -1,12 +1,5 @@
 ## **Greenola App – UI/UX Design**
-🔗 **[View Figma Prototype](https://www.figma.com/proto/q48qWKROD761obQoEKBUDf/Greenola-App?node-id=81-829&p=f&t=VEVhj0hi7i8xO9i5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=61%3A182)**  
-
-## 🎥 Greenola UI Demo  
-🔗 [Watch Greenola UI Prototype on YouTube](https://youtu.be/72hGoCnOUTg)
-
-
-## 🎥 Greenola UI Demo  
-🔗 [Watch the Greenola UI Prototype](https://github.com/emmituomisto/greenola-ui-design/raw/refs/heads/main/Weather%20App%20Prototype.mp4)
+🔗 **[View Figma Prototype](https://www.figma.com/proto/4xc8uS42UvHHtNp8P1WiKo/Greenola-App-Design?node-id=61-182&p=f&t=LutinrvY0e1yI098-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=61%3A182)**  
 
 
 ### **Overview**  

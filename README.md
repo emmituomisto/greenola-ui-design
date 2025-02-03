@@ -1,6 +1,10 @@
 ## **Greenola App – UI/UX Design**
 🔗 **[View Figma Prototype](https://www.figma.com/proto/q48qWKROD761obQoEKBUDf/Greenola-App?node-id=81-829&p=f&t=VEVhj0hi7i8xO9i5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=61%3A182)**  
 
+## 🎥 Greenola UI Demo  
+🔗 [Watch Greenola UI Prototype on YouTube](https://youtu.be/72hGoCnOUTg)
+
+
 ### **Overview**  
 This UI/UX design was created as part of the **Designing Digital Service** course at **LAB University of Applied Sciences**. The course focused on designing digital solutions that enhance user experience and provide value.  
 

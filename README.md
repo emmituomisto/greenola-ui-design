@@ -5,6 +5,10 @@
 🔗 [Watch Greenola UI Prototype on YouTube](https://youtu.be/72hGoCnOUTg)
 
 
+## 🎥 Greenola UI Demo  
+🔗 [Watch the Greenola UI Prototype](https://github.com/emmituomisto/greenola-ui-design/raw/refs/heads/main/Weather%20App%20Prototype.mp4)
+
+
 ### **Overview**  
 This UI/UX design was created as part of the **Designing Digital Service** course at **LAB University of Applied Sciences**. The course focused on designing digital solutions that enhance user experience and provide value.  
 

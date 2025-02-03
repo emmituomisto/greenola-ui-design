@@ -16,6 +16,10 @@ The project followed a structured **service design process**, where each team me
 3️⃣ **UI/UX Design & Prototyping** – Designing and creating an interactive **Figma prototype**  
 4️⃣ **Presentation & Documentation** – Compiling findings and presenting the final concept  
 
+
+![Greenola App UI](https://raw.githubusercontent.com/emmituomisto/Greenola-UI-Design/main/assets/Greenola%20App%20Design.png)  
+
+
 ### **My Role – UI/UX Design Lead (Shared Responsibility)**  
 💜 **Led the UI/UX design phase**, collaborating with another team member on the visual design  
 💜 **Created an interactive Figma prototype**, ensuring structured layouts and accessibility  
